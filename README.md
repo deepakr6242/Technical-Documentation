@@ -1,4 +1,4 @@
-# Technical-Documentation
+# chunks
 Migration of  SQlite3Db to Postgresql in Django
 
 UPDATE your_table t
